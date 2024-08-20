@@ -1,0 +1,27 @@
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+.castItem {
+  margin: 10px;
+  text-align: center;
+}
+
+.actorImage {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.actorName {
+  font-weight: bold;
+  margin: 10px 0 5px;
+}
+
+.actorCharacter {
+  font-style: italic;
+  color: #555;
+}
